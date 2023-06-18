@@ -1,0 +1,1 @@
+self.AttendanceReport.bind("<ButtonRelease>",self.get_cursor)
